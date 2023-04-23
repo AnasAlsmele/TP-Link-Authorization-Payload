@@ -1,4 +1,4 @@
-# TP-Link-Authorization-Payload
+# TP Link Authorization Payload
 
 You can use this list to break the password of the router by using brute force attack using e.g. <b>Burp Suite</b>.
 <br>
